@@ -2,7 +2,7 @@
 
 <img src="icc.png" width="128">
 
-# icc-0610fix
+# InkCanvasForClass
 
 Elegant by Default. Based on `ChangSakura/InkCanvas` .
 
